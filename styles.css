@@ -19,7 +19,8 @@ body {
     background-image: url(fondo.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: center;
+    background-position-x:center;
+    background-position-y: center;
     background-size: cover;
 }
 
@@ -58,7 +59,7 @@ body {
 }
 
 .caja-t3{
-    width: 100%;
+    width: auto;
     background-color:rgba(237, 232, 208, 0.9) ;
     margin: auto;
     margin-bottom: 1cm;
@@ -66,7 +67,7 @@ body {
 }
 
 .caja-t4{
-    width: 100%;
+    width: auto;
     height: auto;
     background-color:rgb(237, 232, 208, 0.95) ;
 
